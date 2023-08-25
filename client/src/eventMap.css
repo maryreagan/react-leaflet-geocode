@@ -1,0 +1,17 @@
+.leaflet-container {
+    width: 35vw;
+    height: 40vh;
+    display: flex;
+}
+
+.event-map-main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    width:100%;
+}
+.leaflet-marker-icon{
+    background: transparent !important;
+    border: none !important;
+}
